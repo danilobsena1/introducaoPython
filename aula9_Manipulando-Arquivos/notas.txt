@@ -1,0 +1,4 @@
+Pedra, 10, 7, 8, 6
+Rafaela, 10, 7, 8, 6
+gabriela, 10, 7, 8, 6
+Maria, 10, 7, 8, 6

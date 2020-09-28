@@ -1,0 +1,89 @@
+Respostas:
+
+Se __name__ for igual a '__main__', o arquivo foi chamado através de outro arquivo.
+
+tudo falso
+
+True
+
+Apenas III e IV.
+
+from modulo import Classe
+
+from mao import polegar, indicador
+
+Que o trecho está sendo executado no próprio arquivo.
+---------------------------------------------------
+Sobre importação de arquivos, qual das alternativas está incorreta?
+
+
+
+---------------------------------------------------
+
+Dado as afirmações abaixo, selecione a alternativa correta.
+
+
+
+I.	Não é possível importar uma função que esteja em um módulo diferente.
+
+II.	Apenas classes podem ser importados em módulo diferentes.
+
+III.	Não é possível importar um módulo diretamente, somente funções e classes.
+
+
+---------------------------------------------------
+Dado o trecho de código abaixo, qual será o valor armazenado na variável “resultado” após a execução do código?
+
+
+
+valida_numero = {
+
+    'par': lambda a: True if a % 2 == 0 else False,
+
+    'impar': lambda b: True if b % 2 == 0 else False
+
+}
+
+resultado = valida_numero['par'](10)
+
+
+
+---------------------------------------------------
+
+Em relação a funções anônimas, avalie a estrutura básica e incompleta abaixo:
+
+calculadora = {
+
+
+
+}
+
+
+
+A calculadora precisa receber pelo menos uma função correta, qual das alternativas abaixo poderiam ser inseridas?
+
+I - soma: lambda a, b: a + b,
+
+II - 'subtracao': lambda : a-b
+
+III - 'multiplicacao': lambda a,b: a*b
+
+IV - 'divisao': lambda a,c: a/c
+
+
+---------------------------------------------------
+Dentro de um módulo Python, qual o comando para  importar uma Classe que esteja em outra módulo Python mas no mesmo projeto?
+
+
+
+---------------------------------------------------
+
+Os movimentos das mãos e dedos são complexos e com muitas funções e finalidades. Imagine que usando os cinco dedos é possível agarrar um objeto e prendê-lo na mão, porém, quando se trata de objetos menores, nós costumamos usar apenas dois dedos em forma de uma pinça. Com base em Python, quais são esses dois dedos?
+
+
+---------------------------------------------------
+
+O que significa a string '__main__'?
+
+
+---------------------------------------------------
